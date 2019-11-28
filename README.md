@@ -2,7 +2,7 @@
 Using ODK collect and other tools to Collevt data
 Data collecction concept is in the odk.pdf
 
-                                    1 INTRODUCTION
+                                              1 INTRODUCTION
 
 The number of children born on Kampala streets keeps on increasing every month. The number of
 child mothers is also on increase in Kampala. At least over 10 pregnant mothers are picked from
@@ -16,7 +16,7 @@ There are currently no specific systems in place, however, to register street ch
 approach is therefore required to reach out to street children and to help them access birth registration.
 
 
-                                   2 OBJECTIVES
+                                              2 OBJECTIVES
 
 This project is aiming to work with children, local organisations and the Ugandan government
 to address this situation and to register street children through outreach registration services,
